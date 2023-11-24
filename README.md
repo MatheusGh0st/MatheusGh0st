@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2>
+  <span>Hi there👋</span> <br>
+  <span>My name is Matheus</span>
+</h2>
 
-<!--
-**MatheusGh0st/MatheusGh0st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<section>
+  <h3>🌟 About Me</h3>
+  <p>
+    I was born in Brazil. I study computer science on my own and sometimes I make cool things with it.
+    <br>
+    
+  > :books: Passionate about compilers, functional programming, type theory and programming languages design in general
+  </p>
+</section>
 
-Here are some ideas to get you started:
+### Things I've studied/studing:
+- **PHP (Laravel, Test)**
+- **JAVA (SprinbBoot, Test)**
+- **C# (.Net Core, Test)**
+- **Javascript/Typescript (Node.js, Test)**
+- **React & React routeers**
+- **Vue3**
+- **Data-Scientist**
+- **SQL (Postgres)**
+- **Haskell**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools/Operational Systems:
+- **Visual Studio Code**
+- **Git**
+- **Intellij** 
+- **Linux**
